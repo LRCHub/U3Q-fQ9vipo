@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "巡恋歌",
+  "base_artist": "長渕剛",
+  "createdAt": "2026-02-28T09:21:53.361123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "巡恋歌",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/01_巡恋歌_長渕剛.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "巡恋歌",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/02_巡恋歌_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "巡恋歌",
+      "artist": "Tsuyoshi Nagabuchi",
+      "has_synced": false,
+      "path": "select/03_巡恋歌_Tsuyoshi_Nagabuchi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "巡恋歌",
+      "artist": "長渕 剛",
+      "has_synced": false,
+      "path": "select/pl_01_巡恋歌_長渕_剛.txt"
+    }
+  ]
+}
